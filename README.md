@@ -1,6 +1,4 @@
 # Car Rental System (Java Application)
-This repository was created as part of an object-oriented programming assignment with the aim of implementing a car rental system. The application is designed to facilitate the car rental process for customers.
-
 To run this program, please follow the instructions below:
 
 1. Create a database named `log_db`.
