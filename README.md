@@ -1,4 +1,3 @@
-# Car Rental System (Java Application)
 This repository was developed as part of a university assignment for the Object-Oriented Programming course. The project involves creating a car rental application using Java (NetBeans) with a database-driven architecture, designed to simplify and manage the car rental process for customers through an interactive user interface.
 To run this program, please follow the instructions below:
 
